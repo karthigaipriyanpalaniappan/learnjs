@@ -1,0 +1,18 @@
+{
+  "name": "jsbasics",
+  "version": "1.0.0",
+  "description": "Project to learn the basics of Javascript",
+  "main": "datatypes.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karthigaipriyanpalaniappan/learnjs.git"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "Karthigai Priyan Palaniappan",
+  "license": "ISC"
+}
